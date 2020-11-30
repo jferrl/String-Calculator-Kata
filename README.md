@@ -4,6 +4,10 @@
 
 It’s an incremental kata to simulate a real business situation: start of by reading the section 1 and completing it, then go onto section 2, and when you have finished that, look at section 3, etc.
 
+### TDD in terms of States and Moves
+
+http://coding-is-like-cooking.info/2011/05/tdd-in-terms-of-states-and-moves/
+
 ## Commands
 
 All the different build steps are orchestrated via [npm scripts](https://docs.npmjs.com/misc/scripts).
