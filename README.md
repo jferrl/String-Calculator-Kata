@@ -6,7 +6,7 @@ It’s an incremental kata to simulate a real business situation: start of by re
 
 ### Learn TDD
 
-
+![alt text](https://github.com/jferrl/String-Calculator-Kata/blob/master/resources/TDDStatesMoves.001.jpg)
 
 ### TDD in terms of States and Moves
 
